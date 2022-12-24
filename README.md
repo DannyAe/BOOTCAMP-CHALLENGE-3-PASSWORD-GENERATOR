@@ -6,7 +6,7 @@ Deployed Pages<Br>
 <a href="https://github.com/DannyAe/ch03-js-password-generator">Deployed GitPage</a>
 <Br><br>
 
-project by Danny Martinez
+<b>project by Danny Martinez<b><br>
 ps: Sorry I'm late I had an emergency with my pet! 
 
 
